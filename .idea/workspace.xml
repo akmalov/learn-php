@@ -3,7 +3,9 @@
   <component name="ChangeListManager">
     <list default="true" id="11c49fe5-b3e7-45fc-8a78-6f4bb53bb9d5" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/staff/pages/index.php" afterPath="$PROJECT_DIR$/public/staff/pages/index.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/staff/subjects/edit.php" afterPath="$PROJECT_DIR$/public/staff/subjects/edit.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/staff/subjects/new.php" afterPath="$PROJECT_DIR$/public/staff/subjects/new.php" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -14,17 +16,12 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="edit.php" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/public/staff/subjects/edit.php">
+      <file leaf-file-name="new.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/public/staff/subjects/new.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="408">
-              <caret line="24" column="0" lean-forward="true" selection-start-line="24" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
-              <folding>
-                <marker date="1503932430619" expanded="true" signature="1189:1290" ph="..." />
-                <marker date="1503932430619" expanded="true" signature="1252:1290" ph="..." />
-                <marker date="1503932430619" expanded="true" signature="1461:1560" ph="..." />
-                <marker date="1503932430619" expanded="true" signature="1523:1560" ph="..." />
-              </folding>
+            <state relative-caret-position="918">
+              <caret line="54" column="52" lean-forward="false" selection-start-line="54" selection-start-column="52" selection-end-line="54" selection-end-column="52" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -41,16 +38,18 @@
         <option value="$PROJECT_DIR$/public/index.php" />
         <option value="$PROJECT_DIR$/private/shared/staff_footer.php" />
         <option value="$PROJECT_DIR$/public/staff/index.php" />
-        <option value="$PROJECT_DIR$/public/staff/pages/index.php" />
         <option value="$PROJECT_DIR$/public/staff/pages/show.php" />
         <option value="$PROJECT_DIR$/public/staff/subjects/show.php" />
         <option value="$PROJECT_DIR$/private/shared/staff_header.php" />
         <option value="$PROJECT_DIR$/private/initialize.php" />
         <option value="$PROJECT_DIR$/public/staff/subjects/index.php" />
-        <option value="$PROJECT_DIR$/public/staff/subjects/new.php" />
         <option value="$PROJECT_DIR$/private/functions.php" />
         <option value="$PROJECT_DIR$/public/staff/subjects/create.php" />
+        <option value="$PROJECT_DIR$/public/staff/pages/index.php" />
+        <option value="$PROJECT_DIR$/public/staff/pages/new.php" />
+        <option value="$PROJECT_DIR$/public/staff/pages/edit.php" />
         <option value="$PROJECT_DIR$/public/staff/subjects/edit.php" />
+        <option value="$PROJECT_DIR$/public/staff/subjects/new.php" />
       </list>
     </option>
   </component>
@@ -84,8 +83,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="Scratches" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -172,12 +171,13 @@
       <workItem from="1503576338975" duration="62000" />
       <workItem from="1503576419229" duration="17000" />
       <workItem from="1503578770948" duration="9000" />
-      <workItem from="1503928345875" duration="2890000" />
+      <workItem from="1503928345875" duration="2987000" />
+      <workItem from="1503944128838" duration="1211000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="20410000" />
+    <option name="totallyTimeSpent" value="21718000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="960" y="0" width="960" height="1040" extended-state="0" />
@@ -212,61 +212,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/private/shared/staff_header.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/public/staff/subjects/show.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/private/functions.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" column="23" lean-forward="true" selection-start-line="10" selection-start-column="23" selection-end-line="10" selection-end-column="23" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/public/staff/subjects/show.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/private/functions.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" column="23" lean-forward="true" selection-start-line="10" selection-start-column="23" selection-end-line="10" selection-end-column="23" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/public/staff/index.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="22" lean-forward="false" selection-start-line="7" selection-start-column="22" selection-end-line="7" selection-end-column="22" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/public/staff/subjects/index.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="714">
-          <caret line="42" column="46" lean-forward="false" selection-start-line="42" selection-start-column="46" selection-end-line="42" selection-end-column="46" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/public/staff/subjects/show.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="119">
@@ -448,13 +393,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/public/staff/pages/index.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="17" column="0" lean-forward="true" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$USER_HOME$/Documents/Books/Программирование/Web/PHP/php-mysql-essential-basics/Exercise Files/Chapter_02/02_07-solution/globe_bank/public/staff/pages/show.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="238">
@@ -540,17 +478,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/public/staff/subjects/new.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="15" column="2" lean-forward="true" selection-start-line="15" selection-start-column="2" selection-end-line="15" selection-end-column="2" />
-          <folding>
-            <marker date="1503930114120" expanded="true" signature="667:735" ph="..." />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -570,16 +497,83 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$USER_HOME$/Documents/Books/Программирование/Web/PHP/php-mysql-essential-basics/Exercise Files/Chapter_04/04_06-solution/globe_bank/public/staff/pages/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="40" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="51" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/staff/pages/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="782">
+          <caret line="46" column="12" lean-forward="true" selection-start-line="46" selection-start-column="12" selection-end-line="46" selection-end-column="12" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Documents/Books/Программирование/Web/PHP/php-mysql-essential-basics/Exercise Files/Chapter_04/04_06-solution/globe_bank/public/staff/pages/new.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="63" selection-end-column="52" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/staff/pages/new.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="800">
+          <caret line="63" column="52" lean-forward="false" selection-start-line="63" selection-start-column="52" selection-end-line="63" selection-end-column="52" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Documents/Books/Программирование/Web/PHP/php-mysql-essential-basics/Exercise Files/Chapter_04/04_06-solution/globe_bank/public/staff/pages/edit.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="27" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="68" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Documents/Books/Программирование/Web/PHP/php-mysql-essential-basics/Exercise Files/Chapter_04/04_06-solution/globe_bank/public/staff/subjects/edit.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="67" selection-end-column="52" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/staff/pages/edit.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" column="0" lean-forward="false" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/public/staff/subjects/edit.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="408">
-          <caret line="24" column="0" lean-forward="true" selection-start-line="24" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
-          <folding>
-            <marker date="1503932430619" expanded="true" signature="1189:1290" ph="..." />
-            <marker date="1503932430619" expanded="true" signature="1252:1290" ph="..." />
-            <marker date="1503932430619" expanded="true" signature="1461:1560" ph="..." />
-            <marker date="1503932430619" expanded="true" signature="1523:1560" ph="..." />
-          </folding>
+        <state relative-caret-position="327">
+          <caret line="49" column="20" lean-forward="true" selection-start-line="49" selection-start-column="20" selection-end-line="49" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Documents/Books/Программирование/Web/PHP/php-mysql-essential-basics/Exercise Files/Chapter_04/04_06-solution/globe_bank/public/staff/subjects/new.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="1" lean-forward="true" selection-start-line="12" selection-start-column="1" selection-end-line="12" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/staff/subjects/new.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="918">
+          <caret line="54" column="52" lean-forward="false" selection-start-line="54" selection-start-column="52" selection-end-line="54" selection-end-column="52" />
+          <folding />
         </state>
       </provider>
     </entry>
